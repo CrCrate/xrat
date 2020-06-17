@@ -1,0 +1,19 @@
+{
+  "reponame":"xa",
+  "repologo":"https://xrat.ml/xalogo.png",
+  "repoauthor":"cr",
+  "repodesc":"This is an example Eclipse repo. It is pretty cool.",
+  "categories":[
+    {
+      "categoryname":"Category Name",
+      "games":[
+        {
+          "name":"pokemonyellow",
+          "link":"https://xrat.ml/roms/py.gbc",
+          "boxart":"Game Boxart",
+          "system":"GBC"
+        }
+      ]
+    }
+  ]
+}
