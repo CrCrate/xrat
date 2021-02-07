@@ -1,0 +1,27 @@
+<html lang="en">
+<button onclick="func()">random twitter acc woooooooooo</button>
+    <script>function func (){const random = (length = 8) => {
+    // Declare all characters
+    let chars = 'abcdefghijklmnopqrstuvwxyz0123456789';
+
+    // Pick characers randomly
+    let str = '';
+    for (let i = 0; i < length; i++) {
+        str += chars.charAt(Math.floor(Math.random() * chars.length));
+    }
+
+    return str;
+
+};
+
+var numb = Math.floor(Math.random() * 10) + 1;
+
+console.log(random(numb));
+
+var out = random(numb);
+
+window.location.href = "https://twitter.com/" + out;
+                 
+                };</script>
+
+</html>
