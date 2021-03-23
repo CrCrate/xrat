@@ -23,4 +23,23 @@
 ,
 
 "here’s your goverment assigned flag: {svg <svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" height=\"150\" width=\"250\"><rect y=\"0\" width=\"250\" height=\"30\" style=\"fill:\\##color1##color2##color3#\"/> <rect y=\"30\" width=\"250\" height=\"30\" style=\"fill:\\##color4##color5##color6#\"/> <rect y=\"60\" width=\"250\" height=\"30\" style=\"fill:\\##color7##color8##color9#\"/> <rect y=\"90\" width=\"250\" height=\"30\" style=\"fill:\\##color10##color11##color12#\"/> <rect y=\"120\" width=\"250\" height=\"30\" style=\"fill:\\##color13##color14##color15#\"/></svg>}"
+
+,
+
+"here’s your goverment assigned flag:{svg <svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" height=\"150\" width=\"250\"><rect y=\"0\" width=\"250\" height=\"375\" style=\"fill:\\##color1##color2##color3#\"/> <rect y=\"37.5\" width=\"250\" height=\"38\" style=\"fill:\\##color4##color5##color6#\"/> <rect y=\"75\" width=\"250\" height=\"37.5\" style=\"fill:\\##color7##color8##color9#\"/> <rect y=\"112.5\" width=\"250\" height=\"37.5\" style=\"fill:\\##color10##color11##color12#\"/></svg>}"
+
+],
+"l":["a","s","d","x","g","f"],
+"r":["j","k","h","n"],
+"smash":["#l##r##r##l##r##l##r##l##r#","#l##r##r##l##l##r##l##r##l##r##l##r##l##r##r#"]
 }
+
+
+
+
+
+
+
+
+
+
